@@ -240,4 +240,6 @@ body.index {
     height: 100%;
     width: 0%;
     background-color: #00B762;
+    background-size: 1rem 1rem;
+    transition: all 0.5s ease-in-out;
 }
